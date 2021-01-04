@@ -1,5 +1,5 @@
 body{
-    
+    margin: 0;
     font-family: 'Poppins', sans-serif;
 }
     h1{
@@ -23,5 +23,6 @@ body{
     background-repeat: no-repeat;
 }
 section{
-    height: 700px;
+    border: 2px solid green;
+    height: 975px;
 }
